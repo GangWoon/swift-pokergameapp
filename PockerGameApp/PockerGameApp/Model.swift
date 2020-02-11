@@ -1,8 +1,8 @@
 //
-//  CardModel.swift
-//  CardGameApp
+//  Model.swift
+//  PockerGameApp
 //
-//  Created by Cloud on 2020/02/10.
+//  Created by Cloud on 2020/02/11.
 //  Copyright © 2020 Cloud. All rights reserved.
 //
 
@@ -45,3 +45,4 @@ extension Card: CustomStringConvertible {
         return "\(self.suit.rawValue)\(rank)"
     }
 }
+

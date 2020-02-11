@@ -1,8 +1,8 @@
 //
-//  FirstView.swift
-//  CardGameApp
+//  File.swift
+//  PockerGameApp
 //
-//  Created by Cloud on 2020/02/07.
+//  Created by Cloud on 2020/02/11.
 //  Copyright © 2020 Cloud. All rights reserved.
 //
 
