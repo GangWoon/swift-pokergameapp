@@ -1,11 +1,11 @@
 # swift-pokergameapp
 STEP15 포커게임 앱 저장소
 
-![](Images/Screen Shot 2020-02-07 at 15.10.12.png)
+![step0](Images/Screen Shot 2020-02-07 at 15.10.12.png)
 
-![step1](Images/Screen Shot 2020-02-07 at 17.49.29.png)
+![step1](/Users/yun/Downloads/swift-pokergameapp/Images/Screen Shot 2020-02-07 at 17.49.29.png)
 
-![step1-1](Images/Screen Shot 2020-02-09 at 15.58.43.png)
+![step1-12](/Users/yun/Downloads/swift-pokergameapp/Images/Screen Shot 2020-02-09 at 15.58.43.png)
 
 
 
